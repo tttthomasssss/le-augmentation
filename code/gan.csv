@@ -1,0 +1,1 @@
+word2vec/googlenews_word2vec-300.kvec,word2vec,300,300-2,tanh,tanh-sigmoid,0.3,0.3-0.,50,torch.optim.Adam,0.0002,0.5,0.999,-1,results_exp_id-{}.dill,2906,nouns.dill,False,0.
